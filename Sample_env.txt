@@ -1,0 +1,6 @@
+//PORT = "3000"
+//DATABASE = "Pharmacy_store"
+//ROOT = "root"
+//DIALECT = "mysql"
+//PASSWORD = "111222111222"
+//HOST = "localhost"
